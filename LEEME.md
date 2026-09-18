@@ -84,6 +84,14 @@ Que la disciplina existe y que las pruebas muerden. Se puede meter una fuga a pr
 `laboratorio/dataset.py` y comprobar que el arnés la ve — que es exactamente lo que hicimos y lo que
 descubrió que a veces **no** la veía.
 
+## Licencia
+
+**MIT.** El código es libre de usar, copiar, modificar y redistribuir con la nota de derechos.
+
+**Ojo con la distinción:** la licencia cubre **este código**, no los datos con los que el proyecto lo
+alimenta. Los precios vienen de Yahoo Finance con restricción contractual y no están aquí ni se
+redistribuyen. Lo único publicado del lado de los datos es el subconjunto abierto del dataset.
+
 ## Advertencia
 
 Brota es una app **didáctica** con **dinero ficticio**, sin recomendaciones individualizadas. Esto no es
